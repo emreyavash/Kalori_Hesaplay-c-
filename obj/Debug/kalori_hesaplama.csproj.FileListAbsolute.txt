@@ -1,0 +1,10 @@
+C:\Users\emrey\source\repos\kalori_hesaplama\bin\Debug\kalori_hesaplama.exe.config
+C:\Users\emrey\source\repos\kalori_hesaplama\bin\Debug\kalori_hesaplama.exe
+C:\Users\emrey\source\repos\kalori_hesaplama\bin\Debug\kalori_hesaplama.pdb
+C:\Users\emrey\source\repos\kalori_hesaplama\obj\Debug\kalori_hesaplama.csprojAssemblyReference.cache
+C:\Users\emrey\source\repos\kalori_hesaplama\obj\Debug\kalori_hesaplama.Form1.resources
+C:\Users\emrey\source\repos\kalori_hesaplama\obj\Debug\kalori_hesaplama.Properties.Resources.resources
+C:\Users\emrey\source\repos\kalori_hesaplama\obj\Debug\kalori_hesaplama.csproj.GenerateResource.cache
+C:\Users\emrey\source\repos\kalori_hesaplama\obj\Debug\kalori_hesaplama.exe
+C:\Users\emrey\source\repos\kalori_hesaplama\obj\Debug\kalori_hesaplama.pdb
+C:\Users\emrey\source\repos\kalori_hesaplama\obj\Debug\kalori_hesaplama.diyet_listesi.resources
